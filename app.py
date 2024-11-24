@@ -1,3 +1,6 @@
+# Image optimization tool
+# Copyright Volkan Kücükbudak
+# Source https://github.com/VolkanSah/image-optimizer/
 import streamlit as st
 from PIL import Image
 import io
