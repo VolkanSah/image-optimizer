@@ -1,1 +1,1 @@
-# image-optimizer
+# Python image-optimizer
